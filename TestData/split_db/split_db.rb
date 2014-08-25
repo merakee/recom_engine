@@ -25,8 +25,10 @@ require '../sqlite_api.rb'
 # 	puts "\n **Error ***: There is no csv file specified. Please specify a file. \n\n"
 # 	Process.exit
 # end
-$csv_filename_d = "ratings_data.csv" #ARGV[0]
-$csv_filename_t = "ratings_test.csv" #ARGV[0]
+$split_ratio = 0.9
+tag  = "_sr_#{($split_ratio*100).to_i}"
+$csv_filename_d = "ratings_data#{tag}.csv" #ARGV[0]
+$csv_filename_t = "ratings_test#{tag}.csv" #ARGV[0]
 $db =  nil
 $table_name =  nil 
 $min_count = 4;
@@ -67,7 +69,7 @@ end
 def randomize_split_and_add(vals)
 	vals.shuffle!
 	vcount = vals.size
-	vcount_h = (vcount/2.0).ceil
+	vcount_h = (vcount*$split_ratio).ceil
 	(0..vcount_h-1).each{|ind|
 		write_to_csv_d vals[ind]
 		# add to user_d set

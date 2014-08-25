@@ -1,0 +1,96 @@
+Similarity type: Euclidean	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 4382 	 %Correct: 0.5618000000000001
+--------------------------------------------
+Similarity type: Euclidean	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 3327 	 %Correct: 0.6673
+--------------------------------------------
+Similarity type: Euclidean	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2511 	 %Correct: 0.7489
+--------------------------------------------
+Similarity type: Euclidean	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2406 	 %Correct: 0.7594
+--------------------------------------------
+Similarity type: Pearson	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 3668 	 %Correct: 0.6332
+--------------------------------------------
+Similarity type: Pearson	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 3100 	 %Correct: 0.69
+--------------------------------------------
+Similarity type: Pearson	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2462 	 %Correct: 0.7538
+--------------------------------------------
+Similarity type: Pearson	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2505 	 %Correct: 0.7495
+--------------------------------------------
+Similarity type: UncenteredCosine	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 4684 	 %Correct: 0.5316000000000001
+--------------------------------------------
+Similarity type: UncenteredCosine	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 3652 	 %Correct: 0.6348
+--------------------------------------------
+Similarity type: UncenteredCosine	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2590 	 %Correct: 0.741
+--------------------------------------------
+Similarity type: UncenteredCosine	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2476 	 %Correct: 0.7524
+--------------------------------------------
+Similarity type: Spearman	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 4503 	 %Correct: 0.5497000000000001
+--------------------------------------------
+Similarity type: Spearman	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 3616 	 %Correct: 0.6384000000000001
+--------------------------------------------
+Similarity type: Spearman	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2629 	 %Correct: 0.7371
+--------------------------------------------
+Similarity type: Spearman	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2469 	 %Correct: 0.7531
+--------------------------------------------
+Similarity type: LogLikelihood	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2671 	 %Correct: 0.7329
+--------------------------------------------
+Similarity type: LogLikelihood	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2569 	 %Correct: 0.7431
+--------------------------------------------
+Similarity type: LogLikelihood	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2470 	 %Correct: 0.753
+--------------------------------------------
+Similarity type: LogLikelihood	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2458 	 %Correct: 0.7542
+--------------------------------------------
+Similarity type: Tanimoto	Neighborhood size: 50	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2817 	 %Correct: 0.7182999999999999
+--------------------------------------------
+Similarity type: Tanimoto	Neighborhood size: 100	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2610 	 %Correct: 0.739
+--------------------------------------------
+Similarity type: Tanimoto	Neighborhood size: 500	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2473 	 %Correct: 0.7527
+--------------------------------------------
+Similarity type: Tanimoto	Neighborhood size: 1000	 Recommender type: GenericUserBased
+--------------------------------------------
+Total: 10000 	 Error Count: 2464 	 %Correct: 0.7536
+--------------------------------------------

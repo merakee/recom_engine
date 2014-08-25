@@ -1,0 +1,100 @@
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.1	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2520 	 %Correct: 0.748
+Total: 10000 	 Error Count: 2520 	 %Correct: 0.748
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.1	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2510 	 %Correct: 0.749
+Total: 10000 	 Error Count: 2510 	 %Correct: 0.749
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.1	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2478 	 %Correct: 0.7522
+Total: 10000 	 Error Count: 2478 	 %Correct: 0.7522
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.05	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2572 	 %Correct: 0.7428
+Total: 10000 	 Error Count: 2572 	 %Correct: 0.7428
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.05	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2522 	 %Correct: 0.7478
+Total: 10000 	 Error Count: 2522 	 %Correct: 0.7478
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.05	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2592 	 %Correct: 0.7408
+Total: 10000 	 Error Count: 2592 	 %Correct: 0.7408
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.01	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2709 	 %Correct: 0.7291000000000001
+Total: 10000 	 Error Count: 2709 	 %Correct: 0.7291000000000001
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.01	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2695 	 %Correct: 0.7304999999999999
+Total: 10000 	 Error Count: 2695 	 %Correct: 0.7304999999999999
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.01	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2628 	 %Correct: 0.7372000000000001
+Total: 10000 	 Error Count: 2628 	 %Correct: 0.7372000000000001
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.1	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2538 	 %Correct: 0.7462
+Total: 10000 	 Error Count: 2538 	 %Correct: 0.7462
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.1	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2501 	 %Correct: 0.7499
+Total: 10000 	 Error Count: 2501 	 %Correct: 0.7499
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.1	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2484 	 %Correct: 0.7516
+Total: 10000 	 Error Count: 2484 	 %Correct: 0.7516
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.05	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2656 	 %Correct: 0.7343999999999999
+Total: 10000 	 Error Count: 2656 	 %Correct: 0.7343999999999999
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.05	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2620 	 %Correct: 0.738
+Total: 10000 	 Error Count: 2620 	 %Correct: 0.738
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.05	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2639 	 %Correct: 0.7361
+Total: 10000 	 Error Count: 2639 	 %Correct: 0.7361
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.01	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2872 	 %Correct: 0.7128
+Total: 10000 	 Error Count: 2872 	 %Correct: 0.7128
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.01	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2951 	 %Correct: 0.7049000000000001
+Total: 10000 	 Error Count: 2951 	 %Correct: 0.7049000000000001
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 100	Lambda: 0.01	Num Of iteration: 20	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2914 	 %Correct: 0.7086
+Total: 10000 	 Error Count: 2914 	 %Correct: 0.7086
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 200	Lambda: 0.1	Num Of iteration: 5	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2480 	 %Correct: 0.752
+Total: 10000 	 Error Count: 2480 	 %Correct: 0.752
+--------------------------------------------
+Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 200	Lambda: 0.1	Num Of iteration: 10	Test Size: 10000
+--------------------------------------------
+Total: 10000 	 Error Count: 2490 	 %Correct: 0.751
+Total: 10000 	 Error Count: 2490 	 %Correct: 0.751
+--------------------------------------------

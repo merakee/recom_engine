@@ -1,0 +1,14 @@
+Similarity type: LogLikelihood	Neighborhood size: 500	 Recommender type: GenericUserBased	 Test Size: 100000
+--------------------------------------------
+Total: 10000 	 Error Count: 2470 	 %Correct: 0.753
+Total: 20000 	 Error Count: 5233 	 %Correct: 0.7383500000000001
+Total: 30000 	 Error Count: 7149 	 %Correct: 0.7617
+Total: 40000 	 Error Count: 10213 	 %Correct: 0.744675
+Total: 50000 	 Error Count: 13143 	 %Correct: 0.73714
+Total: 60000 	 Error Count: 15805 	 %Correct: 0.7365833333333334
+Total: 70000 	 Error Count: 18410 	 %Correct: 0.737
+Total: 80000 	 Error Count: 21525 	 %Correct: 0.7309375
+Total: 90000 	 Error Count: 24421 	 %Correct: 0.7286555555555556
+Total: 100000 	 Error Count: 27337 	 %Correct: 0.72663
+Total: 100000 	 Error Count: 27337 	 %Correct: 0.72663
+--------------------------------------------
