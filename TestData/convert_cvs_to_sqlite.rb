@@ -25,13 +25,16 @@ require './sqlite_api.rb'
 # 	Process.exit
 # end
 #csv_filename = "MovieLens/ml-1m/ratings.csv" #ARGV[0]
-csv_filename = "MovieLens/ml-10M100K/ratings.csv"
+#csv_filename = "MovieLens/ml-10M100K/ratings.csv"
+
+print "Enter Database Name: "
+$db_filename = gets.chomp
 
 $db =  nil
 $table_name =  nil 
 
 def setup_db
-	$db =  SqliteApi.new("MovieLensRatings_10M.sqlite")
+	$db =  SqliteApi.new($db_filename)
 	$table_name = "ratings_table"
 	col_def = <<SQL 
 	(user_id INTEGER NOT NULL,
@@ -47,10 +50,7 @@ def insert_data(user_id:,content_id:,ratings:)
 end
 
 setup_db
-=begin
-CSV.foreach(csv_filename) do |row|
-	val = row[0].split("::")[0,3]
-	insert_data(user_id: val[0],content_id:val[1],ratings:val[2])
-end
-=end 
+# CSV.foreach(csv_filename) do |row|
+# 	insert_data(user_id: row[0],content_id:row[1],ratings:row[2])
+# end 
 $db.close_db

@@ -10,10 +10,10 @@ require 'csv'
 $csv_filename = ""
 $cvs_s  = nil 
 $cvs_t  = nil 
-$thershoold=3.0
+$thershoold=3.5
 
 def open_file
-	file_name = $csv_filename.split(".")[0]+"_bool.csv"
+	file_name = $csv_filename.split(".")[0]+"_bool_35.csv"
     $csv_t  = CSV.open(file_name, 'w' ) 
 end
 

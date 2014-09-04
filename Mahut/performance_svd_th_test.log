@@ -1,0 +1,174 @@
+Data file: ratings_data_sr_90_bool.csv	Recommender type: SVDRecommender	Factorization Type: SVDPlusPlusFactorizer 	 Num Features type: 10	Lambda: 0.2	Num Of iteration: 2	Test Size: 0
+--------------------------------------------
+Total: 10000 	 Error Count: 2473 	 %Correct: 0.7527
+Total: 20000 	 Error Count: 5154 	 %Correct: 0.7423
+Total: 30000 	 Error Count: 8091 	 %Correct: 0.7303
+Total: 40000 	 Error Count: 11280 	 %Correct: 0.718
+Total: 50000 	 Error Count: 14272 	 %Correct: 0.71456
+Total: 60000 	 Error Count: 17383 	 %Correct: 0.7102833333333334
+Total: 70000 	 Error Count: 20298 	 %Correct: 0.7100285714285715
+Total: 80000 	 Error Count: 23024 	 %Correct: 0.7121999999999999
+Total: 90000 	 Error Count: 25803 	 %Correct: 0.7133
+Total: 98432 	 Error Count: 28023 	 %Correct: 0.7153059980494147
+--------------------------------------------
+Data file: ratings_data_sr_90_bool.csv	Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0
+--------------------------------------------
+Total: 10000 	 Error Count: 2639 	 %Correct: 0.7361
+Total: 20000 	 Error Count: 5412 	 %Correct: 0.7294
+Total: 30000 	 Error Count: 8473 	 %Correct: 0.7175666666666667
+Total: 40000 	 Error Count: 11596 	 %Correct: 0.7101
+Total: 50000 	 Error Count: 14530 	 %Correct: 0.7094
+Total: 60000 	 Error Count: 17616 	 %Correct: 0.7063999999999999
+Total: 70000 	 Error Count: 20552 	 %Correct: 0.7063999999999999
+Total: 80000 	 Error Count: 23339 	 %Correct: 0.7082625
+Total: 90000 	 Error Count: 26082 	 %Correct: 0.7101999999999999
+Total: 98432 	 Error Count: 28400 	 %Correct: 0.7114759427828348
+--------------------------------------------
+Data file: ratings_data_sr_90_bool.csv	Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0
+--------------------------------------------
+threshold: 1.5
+Total: 10000 	 Error Count: 2804 	 %Correct: 0.7196
+Total: 20000 	 Error Count: 5857 	 %Correct: 0.70715
+Total: 30000 	 Error Count: 9179 	 %Correct: 0.6940333333333333
+Total: 40000 	 Error Count: 12971 	 %Correct: 0.675725
+Total: 50000 	 Error Count: 16917 	 %Correct: 0.66166
+Total: 60000 	 Error Count: 21074 	 %Correct: 0.6487666666666667
+Total: 70000 	 Error Count: 25221 	 %Correct: 0.6396999999999999
+Total: 80000 	 Error Count: 29300 	 %Correct: 0.63375
+Total: 90000 	 Error Count: 33449 	 %Correct: 0.6283444444444444
+Total: 98432 	 Error Count: 36907 	 %Correct: 0.6250507964889467
+--------------------------------------------
+threshold: 2.0
+Total: 10000 	 Error Count: 2635 	 %Correct: 0.7364999999999999
+Total: 20000 	 Error Count: 5475 	 %Correct: 0.7262500000000001
+Total: 30000 	 Error Count: 8554 	 %Correct: 0.7148666666666667
+Total: 40000 	 Error Count: 11986 	 %Correct: 0.70035
+Total: 50000 	 Error Count: 15434 	 %Correct: 0.6913199999999999
+Total: 60000 	 Error Count: 19028 	 %Correct: 0.6828666666666667
+Total: 70000 	 Error Count: 22354 	 %Correct: 0.6806571428571428
+Total: 80000 	 Error Count: 25542 	 %Correct: 0.680725
+Total: 90000 	 Error Count: 28766 	 %Correct: 0.6803777777777777
+Total: 98432 	 Error Count: 31370 	 %Correct: 0.6813028283485045
+--------------------------------------------
+threshold: 2.5
+Total: 10000 	 Error Count: 2485 	 %Correct: 0.7515000000000001
+Total: 20000 	 Error Count: 5113 	 %Correct: 0.7443500000000001
+Total: 30000 	 Error Count: 8006 	 %Correct: 0.7331333333333334
+Total: 40000 	 Error Count: 11063 	 %Correct: 0.723425
+Total: 50000 	 Error Count: 14013 	 %Correct: 0.71974
+Total: 60000 	 Error Count: 17052 	 %Correct: 0.7158
+Total: 70000 	 Error Count: 19916 	 %Correct: 0.7154857142857143
+Total: 80000 	 Error Count: 22592 	 %Correct: 0.7176
+Total: 90000 	 Error Count: 25298 	 %Correct: 0.7189111111111111
+Total: 98432 	 Error Count: 27517 	 %Correct: 0.7204466027308192
+--------------------------------------------
+threshold: 3.0
+Total: 10000 	 Error Count: 2639 	 %Correct: 0.7361
+Total: 20000 	 Error Count: 5413 	 %Correct: 0.7293499999999999
+Total: 30000 	 Error Count: 8474 	 %Correct: 0.7175333333333334
+Total: 40000 	 Error Count: 11597 	 %Correct: 0.710075
+Total: 50000 	 Error Count: 14530 	 %Correct: 0.7094
+Total: 60000 	 Error Count: 17616 	 %Correct: 0.7063999999999999
+Total: 70000 	 Error Count: 20553 	 %Correct: 0.7063857142857143
+Total: 80000 	 Error Count: 23339 	 %Correct: 0.7082625
+Total: 90000 	 Error Count: 26082 	 %Correct: 0.7101999999999999
+Total: 98432 	 Error Count: 28400 	 %Correct: 0.7114759427828348
+--------------------------------------------
+threshold: 3.5
+Total: 10000 	 Error Count: 3375 	 %Correct: 0.6625
+Total: 20000 	 Error Count: 6967 	 %Correct: 0.6516500000000001
+Total: 30000 	 Error Count: 10840 	 %Correct: 0.6386666666666667
+Total: 40000 	 Error Count: 14784 	 %Correct: 0.6304000000000001
+Total: 50000 	 Error Count: 18383 	 %Correct: 0.63234
+Total: 60000 	 Error Count: 22154 	 %Correct: 0.6307666666666667
+Total: 70000 	 Error Count: 25671 	 %Correct: 0.6332714285714286
+Total: 80000 	 Error Count: 28961 	 %Correct: 0.6379874999999999
+Total: 90000 	 Error Count: 32176 	 %Correct: 0.6424888888888889
+Total: 98432 	 Error Count: 34928 	 %Correct: 0.6451560468140443
+--------------------------------------------
+threshold: 4.0
+Total: 10000 	 Error Count: 4811 	 %Correct: 0.5188999999999999
+Total: 20000 	 Error Count: 9686 	 %Correct: 0.5157
+Total: 30000 	 Error Count: 14724 	 %Correct: 0.5092
+Total: 40000 	 Error Count: 19801 	 %Correct: 0.504975
+Total: 50000 	 Error Count: 24315 	 %Correct: 0.5137
+Total: 60000 	 Error Count: 28886 	 %Correct: 0.5185666666666666
+Total: 70000 	 Error Count: 33173 	 %Correct: 0.5261
+Total: 80000 	 Error Count: 37214 	 %Correct: 0.534825
+Total: 90000 	 Error Count: 41128 	 %Correct: 0.5430222222222223
+Total: 98432 	 Error Count: 44372 	 %Correct: 0.5492116384915475
+--------------------------------------------
+Data file: ratings_data_sr_90_bool.csv	Recommender type: SVDRecommender	Factorization Type: SVDPlusPlusFactorizer 	 Num Features type: 10	Lambda: 0.2	Num Of iteration: 2	Test Size: 0
+--------------------------------------------
+threshold: 1.5
+Total: 10000 	 Error Count: 2832 	 %Correct: 0.7168
+Total: 20000 	 Error Count: 5935 	 %Correct: 0.7032499999999999
+Total: 30000 	 Error Count: 9300 	 %Correct: 0.69
+Total: 40000 	 Error Count: 13172 	 %Correct: 0.6707000000000001
+Total: 50000 	 Error Count: 17238 	 %Correct: 0.65524
+Total: 60000 	 Error Count: 21558 	 %Correct: 0.6407
+Total: 70000 	 Error Count: 26078 	 %Correct: 0.6274571428571429
+Total: 80000 	 Error Count: 30485 	 %Correct: 0.6189374999999999
+Total: 90000 	 Error Count: 35040 	 %Correct: 0.6106666666666667
+Total: 98432 	 Error Count: 38889 	 %Correct: 0.6049150682704811
+--------------------------------------------
+threshold: 2.0
+Total: 10000 	 Error Count: 2754 	 %Correct: 0.7246
+Total: 20000 	 Error Count: 5767 	 %Correct: 0.71165
+Total: 30000 	 Error Count: 9037 	 %Correct: 0.6987666666666666
+Total: 40000 	 Error Count: 12713 	 %Correct: 0.682175
+Total: 50000 	 Error Count: 16501 	 %Correct: 0.66998
+Total: 60000 	 Error Count: 20515 	 %Correct: 0.6580833333333334
+Total: 70000 	 Error Count: 24386 	 %Correct: 0.6516285714285714
+Total: 80000 	 Error Count: 28074 	 %Correct: 0.6490750000000001
+Total: 90000 	 Error Count: 31897 	 %Correct: 0.6455888888888889
+Total: 98432 	 Error Count: 34950 	 %Correct: 0.6449325422626788
+--------------------------------------------
+threshold: 2.5
+Total: 10000 	 Error Count: 2588 	 %Correct: 0.7412000000000001
+Total: 20000 	 Error Count: 5436 	 %Correct: 0.7282
+Total: 30000 	 Error Count: 8508 	 %Correct: 0.7163999999999999
+Total: 40000 	 Error Count: 11881 	 %Correct: 0.702975
+Total: 50000 	 Error Count: 15257 	 %Correct: 0.69486
+Total: 60000 	 Error Count: 18774 	 %Correct: 0.6871
+Total: 70000 	 Error Count: 21984 	 %Correct: 0.6859428571428572
+Total: 80000 	 Error Count: 25020 	 %Correct: 0.68725
+Total: 90000 	 Error Count: 28117 	 %Correct: 0.6875888888888889
+Total: 98432 	 Error Count: 30563 	 %Correct: 0.6895013816644994
+--------------------------------------------
+threshold: 3.0
+Total: 10000 	 Error Count: 2464 	 %Correct: 0.7536
+Total: 20000 	 Error Count: 5118 	 %Correct: 0.7441
+Total: 30000 	 Error Count: 8033 	 %Correct: 0.7322333333333333
+Total: 40000 	 Error Count: 11100 	 %Correct: 0.7224999999999999
+Total: 50000 	 Error Count: 14127 	 %Correct: 0.71746
+Total: 60000 	 Error Count: 17271 	 %Correct: 0.7121500000000001
+Total: 70000 	 Error Count: 20122 	 %Correct: 0.7125428571428571
+Total: 80000 	 Error Count: 22838 	 %Correct: 0.7145250000000001
+Total: 90000 	 Error Count: 25612 	 %Correct: 0.7154222222222222
+Total: 98432 	 Error Count: 27813 	 %Correct: 0.7174394505851756
+--------------------------------------------
+threshold: 3.5
+Total: 10000 	 Error Count: 2535 	 %Correct: 0.7464999999999999
+Total: 20000 	 Error Count: 5211 	 %Correct: 0.7394499999999999
+Total: 30000 	 Error Count: 8159 	 %Correct: 0.7280333333333333
+Total: 40000 	 Error Count: 11261 	 %Correct: 0.718475
+Total: 50000 	 Error Count: 14232 	 %Correct: 0.71536
+Total: 60000 	 Error Count: 17361 	 %Correct: 0.71065
+Total: 70000 	 Error Count: 20342 	 %Correct: 0.7094
+Total: 80000 	 Error Count: 23115 	 %Correct: 0.7110624999999999
+Total: 90000 	 Error Count: 25899 	 %Correct: 0.7122333333333333
+Total: 98432 	 Error Count: 28302 	 %Correct: 0.7124715539661899
+--------------------------------------------
+threshold: 4.0
+Total: 10000 	 Error Count: 2924 	 %Correct: 0.7076
+Total: 20000 	 Error Count: 6026 	 %Correct: 0.6987
+Total: 30000 	 Error Count: 9491 	 %Correct: 0.6836333333333333
+Total: 40000 	 Error Count: 13143 	 %Correct: 0.6714249999999999
+Total: 50000 	 Error Count: 16554 	 %Correct: 0.66892
+Total: 60000 	 Error Count: 20185 	 %Correct: 0.6635833333333334
+Total: 70000 	 Error Count: 23603 	 %Correct: 0.6628142857142857
+Total: 80000 	 Error Count: 26809 	 %Correct: 0.6648875000000001
+Total: 90000 	 Error Count: 29975 	 %Correct: 0.6669444444444445
+Total: 98432 	 Error Count: 32767 	 %Correct: 0.667110289336801
+--------------------------------------------

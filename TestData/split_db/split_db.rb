@@ -26,9 +26,10 @@ require '../sqlite_api.rb'
 # 	Process.exit
 # end
 $split_ratio = 0.9
+source_tag = "nf_600_"
 tag  = "_sr_#{($split_ratio*100).to_i}"
-$csv_filename_d = "ratings_data#{tag}.csv" #ARGV[0]
-$csv_filename_t = "ratings_test#{tag}.csv" #ARGV[0]
+$csv_filename_d = source_tag + "ratings_data#{tag}.csv" #ARGV[0]
+$csv_filename_t = source_tag + "ratings_test#{tag}.csv" #ARGV[0]
 $db =  nil
 $table_name =  nil 
 $min_count = 4;
@@ -37,8 +38,10 @@ $csv_d = nil
 $user_t = Set.new
 $user_d = Set.new 
 
+$db_filename = "NF_Ratings_1_600.sqlite" #"MLRatings.sqlite"
+
 def open_db
-	$db =  SqliteApi.new("MLRatings.sqlite")
+	$db =  SqliteApi.new($db_filename)
 	$table_name = "ratings_table"
 end
 
@@ -104,10 +107,6 @@ end
 
 open_db
 #clean_db 
-# CSV.foreach(csv_filename) do |row|
-# 	val = row[0].split("::")[0,3]
-# 	insert_data(user_id: val[0],content_id:val[1],ratings:val[2])
-# end
 open_files
 add_data
 check_split

@@ -1,0 +1,54 @@
+Data file: nf_600_ratings_data_sr_90_bool.csv	Recommender type: SVDRecommender	Factorization Type: SVDPlusPlusFactorizer 	 Num Features type: 10	Lambda: 0.2	Num Of iteration: 2	Test Size: 0
+--------------------------------------------
+Data file: ratings_data_sr_90_bool_ub.csv	Recommender type: SVDRecommender	Factorization Type: SVDPlusPlusFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0
+--------------------------------------------
+Total: 10000 	 Error Count: 792 	 %Correct: 0.9208
+Total: 20000 	 Error Count: 1696 	 %Correct: 0.9152
+Total: 30000 	 Error Count: 2749 	 %Correct: 0.9083666666666667
+Total: 40000 	 Error Count: 3974 	 %Correct: 0.90065
+Total: 50000 	 Error Count: 5258 	 %Correct: 0.89484
+Total: 60000 	 Error Count: 6793 	 %Correct: 0.8867833333333334
+Total: 70000 	 Error Count: 8454 	 %Correct: 0.8792285714285715
+Total: 80000 	 Error Count: 9993 	 %Correct: 0.8750875
+Total: 90000 	 Error Count: 11664 	 %Correct: 0.8704000000000001
+Total: 98432 	 Error Count: 13240 	 %Correct: 0.8654908972691807
+--------------------------------------------
+Data file: ratings_data_sr_90_bool_ub.csv	Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0
+--------------------------------------------
+Total: 10000 	 Error Count: 845 	 %Correct: 0.9155
+Total: 20000 	 Error Count: 1796 	 %Correct: 0.9102
+Total: 30000 	 Error Count: 2873 	 %Correct: 0.9042333333333333
+Total: 40000 	 Error Count: 4123 	 %Correct: 0.896925
+Total: 50000 	 Error Count: 5485 	 %Correct: 0.8903
+Total: 60000 	 Error Count: 7104 	 %Correct: 0.8815999999999999
+Total: 70000 	 Error Count: 8887 	 %Correct: 0.8730428571428571
+Total: 80000 	 Error Count: 10526 	 %Correct: 0.868425
+Total: 90000 	 Error Count: 12312 	 %Correct: 0.8632
+Total: 98432 	 Error Count: 14016 	 %Correct: 0.8576072821846554
+--------------------------------------------
+Data file: ratings_data_sr_90_bool_ub.csv	Recommender type: SVDRecommender	Factorization Type: ALSWRFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0	Threshold: 2.5
+--------------------------------------------
+Total: 10000 	 Error Count: 818 	 %Correct: 0.9182
+Total: 20000 	 Error Count: 1781 	 %Correct: 0.91095
+Total: 30000 	 Error Count: 2853 	 %Correct: 0.9049
+Total: 40000 	 Error Count: 4108 	 %Correct: 0.8973
+Total: 50000 	 Error Count: 5500 	 %Correct: 0.89
+Total: 60000 	 Error Count: 7142 	 %Correct: 0.8809666666666667
+Total: 70000 	 Error Count: 8988 	 %Correct: 0.8716
+Total: 80000 	 Error Count: 10737 	 %Correct: 0.8657874999999999
+Total: 90000 	 Error Count: 12608 	 %Correct: 0.8599111111111111
+Total: 98432 	 Error Count: 14428 	 %Correct: 0.8534216514954487
+--------------------------------------------
+Data file: ratings_data_sr_90_bool_ub.csv	Recommender type: SVDRecommender	Factorization Type: SVDPlusPlusFactorizer 	 Num Features type: 50	Lambda: 0.2	Num Of iteration: 20	Test Size: 0	Threshold: 2.5
+--------------------------------------------
+Total: 10000 	 Error Count: 805 	 %Correct: 0.9195
+Total: 20000 	 Error Count: 1746 	 %Correct: 0.9127
+Total: 30000 	 Error Count: 2816 	 %Correct: 0.9061333333333333
+Total: 40000 	 Error Count: 4054 	 %Correct: 0.89865
+Total: 50000 	 Error Count: 5410 	 %Correct: 0.8918
+Total: 60000 	 Error Count: 7008 	 %Correct: 0.8832
+Total: 70000 	 Error Count: 8851 	 %Correct: 0.8735571428571429
+Total: 80000 	 Error Count: 10532 	 %Correct: 0.86835
+Total: 90000 	 Error Count: 12344 	 %Correct: 0.8628444444444444
+Total: 98432 	 Error Count: 14112 	 %Correct: 0.856631989596879
+--------------------------------------------

@@ -39,4 +39,6 @@ build/
 TestData/MovieLens/*
 TestData/MovieLens/**/*
 
-TestData/ratings.csv
+*.csv
+TestData/*.csv
+TestData/*/*.csv
